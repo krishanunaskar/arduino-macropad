@@ -7,6 +7,7 @@ Roughly costs about $5-6 in total and as you can see below it's really simple!
 ### Hardware
 
 https://robu.in/product/pro-micro-5v-16m-mini-leonardo-micro-controller-development-board-for-arduino/
+
 https://robu.in/product/4x4-matrix-keypad-membrane-switch-arduino-arm-mcu/
 
 - [Arduino Pro Micro*](http://s.click.aliexpress.com/e/cKhaIeiy)
