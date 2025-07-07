@@ -3,6 +3,7 @@ A really simple macro keyboard project using an arduino. Useful for OBS for swit
 
 Roughly costs about $5-6 in total and as you can see below it's really simple!
 
+https://youtu.be/ORujXGDqG_I?si=N5CMXez7wDFlTWS0
 
 ### Hardware
 
